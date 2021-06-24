@@ -1,2 +1,2 @@
 # credit-card-churn
-Predict wether customers will churn
+My first project with my team: Predict wether customers will churn
